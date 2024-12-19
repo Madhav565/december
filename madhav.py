@@ -1,2 +1,2 @@
-madhav started learning git and also started editing
+print("Madhav started learning git and also started editing")
 
